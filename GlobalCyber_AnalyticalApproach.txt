@@ -1,0 +1,32 @@
+- Bối cảnh (Sự cần thiết khai thác chủ đề này): Thực tế, từ 2015 cho đến nay thì số lượng tấn công mạng ngày càng tăng mạnh, đặc biệt trong bối cảnh chuyển đổi số, làm việc từ xa và sử dụng cloud computing. Ngay cả ở Việt Nam, thì Bộ thông tin, Nhà Nước, Chính Phủ liên tục cảnh báo, nhắc nhở người dân trước những cuộc gọi giả mạo, lừa đảo qua mạng,...
+
+- Phân tích: 
+
+- Tổng quan an ninh mạng toàn cầu: 
++ Số vụ tấn công qua từng năm
++ Xu hướng theo từng giai đoạn (giai đoạn đặc biệt 2020-2022: COVID, 2024: gần đây)
++ Tập trung chủ yếu là các quốc gia nào, loss bao nhiêu,...
+- Cụ thể từng khía cạnh: Nếu một vấn đề gì thay đổi > xem nguyên nhân tại sao lại thay đổi như vậy
+
+- Tấn công: 
++ Loại hình tấn công mạng: tỷ trọng, xu hương thay đổi (loại nào mới), so sánh mức độ nguy hiểm giữa các loại tấn công này (có thể sử dụng thiệt tình tài chính, số người bị ảnh hưởng,...)
++ Nguồn gốc tấn công: Sự khác biệt giữa tấn công nội bộ và bên ngoài (so sánh các trường khác), xu hướng thay đổi như thế nào (tại sao lại gây ra sự thay đổi như vậy)
++ Phương thức tấn công: Phổ biến nhất loại nào, cái này gây thiệt hại nhiều nhất ( $ và people), chia nhỏ theo giai đoạn (gần đây thì sử dụng gì nhiều nhất)
++ Lỗ hổng bảo mật: Loại nào bị tấn công nhiều nhất, tấn suất, Lỗi kỹ thuật?? Lỗi con người (tạo measure phân lỗi do kỹ thuật, lỗi do con người ???)
++ Ngành bị ảnh hưởng: ngành nào dễ và chịu nhiều cuộc tấn công nhất, tổn thất tài chính theo từng ngành, mức độ ảnh hưởng cũng người thei ngành,...
++ Tác động tài chính: theo từng năm, theo loại tấn công, ngành nghề. Trong phần này sẽ có những vụ tấn công gây thiệt hại nhiều > cần phân tích kĩ tại sao
++ Quốc gia: Quốc gia nào bị tấn công nhiều nhất (tại sao lại bị như vậy, những vụ tấn công có tính chất ntn, số tiền mất, ngành nghề nào trong quốc gia bị tấn công nhiều nhất, xử lý như thé nào,..)
+
+- Phòng thủ: (có thể khai thác thêm)
++ Tốc độ phản ứng và khắc phục sự cố: Thời gian phản ứng trung bình, ngành nào nhanh/ chậm và so sánh theo từng năm. Ngành nào cải thiện tốt, ngành nào giảm khả năng phản ứng
++ Chiến lược phòng thủ: biện pháp phòng thủ phổ biến, so sánh hiệu quả giữa các chiến lược phòng thủ, biện pháp phòng thủ mới có hiệu quả, có gì hơn với những cái cũ
++ Theo mức đọ nghiêm trọng: Dự báo xu hướng tăng/giảm mức độ nghiêm trọng
+
+- Dự báo: 
++ Các loại hình tấn công sẽ phổ biến trong thời gian tới > các chiến lược ohonfg thủ với những loại hình này
++ Ngành nào sẽ tiếp tục hoặc mới bị tấn công nhiều > ngăn chặn ntn 
+
+- Đề xuất và giải pháp (làm giảm): tách ra đề xuất với doanh nghiệp, với người dùng cá nhân,...
+
+>> Insight sẽ được rút ra nếu thấy xu hướng chung / hoặc khai thác nếu thấy vấn đề bị ngược (Đặt câu hỏi WHY)
+
